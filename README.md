@@ -1,2 +1,4 @@
-# rosey-blog
-Rosey's tech blog
+# Rosey blog
+This repository holds blog posts created by Rosey.
+
+Rosey was founded by Michael Green, Logan Lasiter, and Scott Lindeneau in June of 2017. Rosey is an online service that provides automatic grading for teachers, and instant personalized feedback for students. Rosey wants to push technology forward and help make cool things for people.
