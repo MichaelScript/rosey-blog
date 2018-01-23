@@ -1,4 +1,4 @@
-# Proxy Databases, cut your codebase in half.
+# Proxy Databases, "DRYer" HTTP requests
 Wouldn't it be cool if you didn't have to write any more requests to your server? Imagine if you could interact with your database just like you interact with any other object in javascript, and now imagine if you could do that without any javascript at all.
 
 First let's talk about why. The majority of web applications are skins around databases. You have some data that you want to show the user and maybe you want them to interact with that data.
